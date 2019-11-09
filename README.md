@@ -1,65 +1,39 @@
 <ul>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(62).pdf" style="text-decoration:none;">Epigenetics and Cancer</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(1).pdf" style="text-decoration:none;">Affective Computing: Focus on Emotion Expression, Synthesis and Recognition</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(63).pdf" style="text-decoration:none;">Epigenetics in Human Disease</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(2).pdf" style="text-decoration:none;">Common LISP: A Gentle Introduction to Symbolic Computation</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(64).pdf" style="text-decoration:none;">Nutrients and Epigenetics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(3).pdf" style="text-decoration:none;">Planning Algorithms</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(65).pdf" style="text-decoration:none;"> Above the Gene, Beyond Biology: Toward a Philosophy of Epigenetics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(4).pdf" style="text-decoration:none;"> Artificial Intelligence: Foundations of Computational Agents</a></b></li>
                                
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(66).pdf" style="text-decoration:none;"> Brain, Behavior and Epigenetics </a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(5).pdf" style="text-decoration:none;"> A Course in Machine Learning </a></b></li>   
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(67).pdf" style="text-decoration:none;">Epigenetics and Human Reproduction</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(6).pdf" style="text-decoration:none;">Clever Algorithms: Nature-Inspired Programming Recipes</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(68).pdf" style="text-decoration:none;">Epigenetics of Aging</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(7).pdf" style="text-decoration:none;">Deep Learning with R</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(69).pdf" style="text-decoration:none;">Handbook of Epigenetics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(8).pdf" style="text-decoration:none;">Essentials of Metaheuristics</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(70).pdf" style="text-decoration:none;"> Introducing Epigenetics: A Graphic Guide </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(9).pdf" style="text-decoration:none;"> From Bricks to Brains: The Embodied Cognitive Science of LEGO Robots </a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(71).pdf" style="text-decoration:none;">The Developing Genome: An Introduction to Behavioral Epigenetics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(10).pdf" style="text-decoration:none;">Logic For Computer Science: Foundations of Automatic Theorem Proving </a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(72).pdf" style="text-decoration:none;">The Epigenetics of Autoimmune Diseases </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(11).pdf" style="text-decoration:none;">Life 3.0: Being Human in the Age of Artificial Intelligence </a></b></li>
                                
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(73).pdf" style="text-decoration:none;"> The Epigenetics Revolution: How Modern Biology is Rewriting Our Understanding of Genetics, Disease and Inheritance</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(12).pdf" style="text-decoration:none;"> Our Final Invention: Artificial Intelligence and the End of the Human Era</a></b></li>   
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(74).rar" style="text-decoration:none;">The Genie in Your Genes </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(13).rar" style="text-decoration:none;">Artificial Intelligence: A Modern Approach </a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(75).PDF" style="text-decoration:none;">The Power of Epigenetics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(14).rar" style="text-decoration:none;">Python Machine Learning</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(76).pdf" style="text-decoration:none;">Environmental Epigenetics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(15).pdf" style="text-decoration:none;">The Quest for Artificial Intelligence: A History of Ideas and Achievements</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(77).pdf" style="text-decoration:none;"> Epigenetics and Neuroendocrinology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(16).pdf" style="text-decoration:none;"> Simply Logical: Intelligent Reasoning by Example</a></b></li>
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(78).pdf" style="text-decoration:none;"> Epigenetics of Infectious Diseases</a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(17).pdf" style="text-decoration:none;"> Superintelligence</a></b></li>   
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(79).pdf" style="text-decoration:none;">Epigenetics: The Ultimate Mystery of Inheritance</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-18-Best-Books-About-AI/blob/master/ai(18).pdf" style="text-decoration:none;">Virtual Reality for Human Computer Interaction</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(80).pdf" style="text-decoration:none;">Gynecological Cancers: Genetic and Epigenetic Targets and Drug Development</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(81).pdf" style="text-decoration:none;">Lamarck's Revenge: How Epigenetics Is Revolutionizing Our Understanding of Evolution's Past and Present</a></b></li>
-  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(82).pdf" style="text-decoration:none;"> Non-Coding RNAs and Epigenetics in Cancer</a></b></li>         
-          
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(83).pdf" style="text-decoration:none;">Epigenetic Regulation and Epigenomics</a></b></li>
-  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(84).pdf" style="text-decoration:none;">Plant Epigenetics: Methods and Protocols</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(85).pdf" style="text-decoration:none;">Genetics and Epigenetics of Children's Behavior Problems</a></b></li>
-  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(86).pdf" style="text-decoration:none;">Blinded by Science: The Social Implications of Epigenetics and Neuroscience</a></b></li>            
-          
-   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Epigenetics-Books/blob/master/chb(87).pdf" style="text-decoration:none;">Epigenetics and Complex Traits</a></b></li>                  
-          
-          
-          
-          
-          
 
 </ul>
-
-
-
-
-
